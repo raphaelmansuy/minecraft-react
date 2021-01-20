@@ -12,7 +12,7 @@ function App() {
   return (
     <Canvas shadowMap sRGB>
       <Sky sunPosition={[100, 20, 100]} />
-      <ambientLight intensity={0.25} />
+      <ambientLight intensity={0.75} />
       <pointLight castShadow intensity={0.7} position={[100, 100, 100]} />
       <Hud position={[0, 0, -2]} />
       <Physics gravity={[0, -30, 0]}>
