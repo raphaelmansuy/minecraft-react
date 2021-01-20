@@ -1,8 +1,8 @@
 # Welcome to React three fiber Minecraft
 
-This project is just me trying to mimic Minecraft in React.
+This project is justtrying to mimic Minecraft in React.
 
-A Youtube video that describes how it this project was built:
+A Youtube video that describes how it the original project was built:
 [![Video preview](https://img.youtube.com/vi/aWQmuTiThTs/0.jpg)](https://www.youtube.com/watch?v=aWQmuTiThTs)
 
 Demo: https://minecraft-js.vercel.app/
